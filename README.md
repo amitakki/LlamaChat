@@ -51,7 +51,7 @@ ChatApp/
 1. Clone the repository:
 ```bash
 git clone https://github.com/amitakki/LlamaChat.git
-cd llama-chat-app
+cd LlamaChat
 ```
 
 2. Create and activate a virtual environment:
